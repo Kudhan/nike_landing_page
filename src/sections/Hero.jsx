@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Button from "../components/button";
+import Button from "../components/Button";
 import { arrowRight } from "../assets/icons";
 import { shoes, statistics } from "../constants"; // Ensure 'shoes' array is properly imported
 import { bigShoe1 } from "../assets/images";
