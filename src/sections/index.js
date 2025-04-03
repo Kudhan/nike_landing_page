@@ -1,6 +1,6 @@
 import Hero from './Hero';
 import Footer from './Footer';
-import PopularProducts from './popularProducts';
+import PopularProducts from './PopularProducts';
 import Services from './services';
 import Subscribe from './subscribe';
 import SuperQuality from './SuperQuality';
